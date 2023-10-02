@@ -1,4 +1,4 @@
-![225685881-478767ea-f466-4ef8-8555-c4e1e5dfed22](https://user-images.githubusercontent.com/112805297/225855565-91bedeed-ad24-485c-b2ba-b77d632c7051.png)
+![225685881-478767ea-f466-4ef8-8555-c4e1e5dfed22](https://drive.google.com/file/d/1PwoFsDUgwqPjWRZLslLEwEFxqKNeVmqj/view?usp=sharing)
 
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
