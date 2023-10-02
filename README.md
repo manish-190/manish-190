@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript, CSS, HTML, React, Redux & TailwindCSS**
 
-- 📫 How to reach me **sisodiasubhangi@gmail.com**
+- 📫 How to reach me **manishmnnit2019@gmail.com**
 
 <!-- - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tCFTtxJsuxLH3znJu92MzaUq_308FAdk/view?usp=share_link) -->
 - 👨‍💻Check out my Projects [Portfolio](https://shubhangisisodia.github.io/)
