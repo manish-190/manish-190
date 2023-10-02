@@ -15,11 +15,11 @@
 - 📫 How to reach me **manishmnnit2019@gmail.com**
 
 <!-- - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tCFTtxJsuxLH3znJu92MzaUq_308FAdk/view?usp=share_link) -->
-- 👨‍💻Check out my Projects [Portfolio](https://shubhangisisodia.github.io/)
+- 👨‍💻Check out my Projects [Portfolio](======================)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shubhangi-sisodia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhangi sisodia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manish-kumar-6a2794145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhangi sisodia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
