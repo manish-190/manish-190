@@ -1,4 +1,5 @@
-![Image Alt Text](https://drive.google.com/uc?id=your-image-id)
+![Image Alt Text](![Image Alt Text](https://i.imgur.com/your-image-file.jpg)
+)
 
 
 https://drive.google.com/file/d/1PwoFsDUgwqPjWRZLslLEwEFxqKNeVmqj/view?usp=sharing
