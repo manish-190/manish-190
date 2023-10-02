@@ -1,5 +1,5 @@
-![225685881-478767ea-f466-4ef8-8555-c4e1e5dfed22](https://www.google.com/search?q=image&sca_esv=570134643&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjh5prDl9iBAxXE1zgGHYz4A9kQ_AUoAXoECAIQAw&biw=1528&bih=750&dpr=1.25#imgrc=bPeUhD0buYp94M)
-<img align="right" alt="Coder Image Gif" width="400" src="https://drive.google.com/drive/folders/1hMpMpw8ejzGkWtJue351UJ70VBctCdoK">
+![Image Alt Text](https://drive.google.com/uc?id=your-image-id)
+
 
 https://drive.google.com/file/d/1PwoFsDUgwqPjWRZLslLEwEFxqKNeVmqj/view?usp=sharing
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
