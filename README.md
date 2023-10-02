@@ -1,7 +1,7 @@
 ![225685881-478767ea-f466-4ef8-8555-c4e1e5dfed22](https://user-images.githubusercontent.com/112805297/225855565-91bedeed-ad24-485c-b2ba-b77d632c7051.png)
 
 
-<h1 align="center">Hi 👋, I'm Shubhangi Sisodia</h1>
+<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">Hi there! I'm a front end web developer with a passion for crafting elegant and efficient solutions to complex problems. With experience in both front-end and back-end development, I specialize in building dynamic, responsive web applications that engage users and drive results. </h3>
 <img align="right" alt="Coder Image Gif" width="400" src="https://camo.githubusercontent.com/5a249fff657eb22fb372ea50a8553b59551fd78ea5df602fc08e3ec1e8e95bb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313935313138322f73637265656e73686f74732f343536303832332f383030783630302e676966">
 
