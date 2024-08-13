@@ -17,7 +17,7 @@
 - 📫 How to reach me **manishmnnit2019@gmail.com**
 
 <!-- - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tCFTtxJsuxLH3znJu92MzaUq_308FAdk/view?usp=share_link) -->
-- 👨‍💻Check out my Projects [Portfolio](======================)
+- 👨‍💻 Check out my Projects [Portfolio](https://manish-190.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
